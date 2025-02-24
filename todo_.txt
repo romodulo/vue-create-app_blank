@@ -4,4 +4,8 @@ modify project-items into blank templates as much as possible.
 < 2-23>  <<Last-Commit>>:
 decided not to clear/(blank_out) these templates just yet. Eventually, these will be cleared.
 
-< 2-24>  <5:32>  <<First-Commit>>
+< 2-24>  <17:32>  <<First-Commit>>
+
+
+< 2-24>  <23:11>  <<Last-Commit>>: No-coding left for today. 
+For my previous commit: I made a copy of "src"-folder to an un-tracked dir. 
