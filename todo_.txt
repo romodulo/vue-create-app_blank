@@ -8,4 +8,7 @@ decided not to clear/(blank_out) these templates just yet. Eventually, these wil
 
 
 < 2-24>  <23:11>  <<Last-Commit>>: No-coding left for today. 
-For my previous commit: I made a copy of "src"-folder to an un-tracked dir. 
+For my previous commit: I made a copy of "src"-folder in an un-tracked dir. 
+
+< 2-25>  <22:30>  <<First-Commit>>
+created a copy of src in an untracked directory.
