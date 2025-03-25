@@ -12,3 +12,7 @@ For my previous commit: I made a copy of "src"-folder in an un-tracked dir.
 
 < 2-25>  <22:30>  <<First-Commit>>
 created a copy of src in an untracked directory.
+
+< 2-25>  <  >  <<Last-Commit>>
+
+First commit of < 3-25>  <23:48>: most recent commit has a stable version of the <  src  >  directory.
