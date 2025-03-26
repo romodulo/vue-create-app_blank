@@ -16,3 +16,8 @@ created a copy of src in an untracked directory.
 < 2-25>  <  >  <<Last-Commit>>
 
 First commit of < 3-25>  <23:48>: most recent commit has a stable version of the <  src  >  directory.
+<  deprecated  />
+Last commit of < 3-25>  <midnight-or-pastMidnight>:
+
+First commit of < 3-26>  <23:58>  :  add vue-project---2 as reference
+

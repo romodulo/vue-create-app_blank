@@ -1,0 +1,12 @@
+3-25, 23-52:
+I'm not sure if I want to clear the App.vue file, and other files. 
+
+These two commits are good working stable versions of vue-application,
+before I decide to clear out the <  src  > - directory or <  cp -r  >
+<  vue-project  > - directory to a new dir in root dir. 
+
+commit 1ca3aeb0c40e2c41b3cb4bb8c9f7513e751427f0
+3-25, 23-51
+
+commit 4bd84f1067659e7beb0a6d1bfa90b05d77edcbb2
+2-25, 22-36
