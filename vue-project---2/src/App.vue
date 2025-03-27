@@ -8,6 +8,10 @@
   </header>
   <div>New section</div>
   <div>End:New secion</div>
+  <h1 class="text-3xl font-bold underline text-clifford">
+      Hello world!
+  </h1>
+  <h1 class="text-2xl font-bold text-clifford"></h1>
 </template>
 
 <style scoped>
