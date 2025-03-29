@@ -1,4 +1,30 @@
 <script setup>
+import { ref, onMounted } from 'vue'
+
+const el = ref()
+const json = ref()
+
+onMounted(() => {
+  getData()
+  el.value // <div>
+})
+
+async function getData() {
+  const url = "https://httpbin.org/get";
+  try {
+    const response = await fetch(url);
+    if (!response.ok) {
+      throw new Error(`Response status: ${response.status}`);
+    }
+
+    json = await response.json();
+    console.log(json);
+  } catch (error) {
+    console.error(error.message);
+  }
+}
+
+
 </script>
 
 <template>
@@ -12,6 +38,7 @@
       Hello world!
   </h1>
   <h1 class="text-2xl font-bold text-clifford"></h1>
+  <div ref="el">{{ json }}</div>
 </template>
 
 <style scoped>

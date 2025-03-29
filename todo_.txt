@@ -26,3 +26,5 @@ Last commit of < 3-27>  <22:39>:  no coding left for me today;
 
 First commit of < 3-28>  <23:53>: create a python_script for learning;
 Last commit of < 3-28>  <23:58>: no coding left for today;
+
+First commit of < 3-28>  <12:59>: start coding:  modify App.vue, use python module 'requests';
